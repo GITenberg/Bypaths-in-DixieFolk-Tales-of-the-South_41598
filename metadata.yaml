@@ -1,0 +1,35 @@
+_repo: Bypaths-in-DixieFolk-Tales-of-the-South_41598
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41598-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cocke, Sarah Johnson
+    alias: Johnson, Sarah Cobb
+    gutenberg_agent_id: '41254'
+    url: http://www.gutenberg.org/2009/agents/41254
+description: ''
+gutenberg_issued: '2012-12-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41598'
+  lccn: '11025741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Folklore'
+- !lcsh 'Tales -- Southern States'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Southern States -- Fiction'
+tableOfContents: The rooster telephone -- Old man Gully's hant -- Jack O'Lantern and
+  the glow worm -- Miss Race Hoss an' de fleas -- Miss Race Hoss's party -- Ned Dog
+  and Billy Goat -- How the billy goat lost his tail -- Shoo fly -- Election day --
+  Mister Bad 'Simmon Tree -- Big Eye Buzzard -- Miss Lilly Dove -- Mister Grab-All
+  Spider -- Mister Rattlesnake -- Miss Queen Bee -- Mister Tall Pine's Christmas tree
+  -- An afterword.
+title: 'Bypaths in Dixie: Folk Tales of the South'
+url: http://www.gutenberg.org/ebooks/41598
