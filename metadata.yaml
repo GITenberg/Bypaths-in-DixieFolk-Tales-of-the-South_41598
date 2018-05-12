@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '41254'
     url: http://www.gutenberg.org/2009/agents/41254
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41598#Bypaths-in-DixieFolk-Tales-of-the-South
 gutenberg_issued: '2012-12-10'
 gutenberg_type: Text
 identifiers:
